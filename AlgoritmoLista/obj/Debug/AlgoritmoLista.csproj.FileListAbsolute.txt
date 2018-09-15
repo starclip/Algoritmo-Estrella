@@ -1,0 +1,7 @@
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\bin\Debug\AlgoritmoLista.exe.config
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\bin\Debug\AlgoritmoLista.exe
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\bin\Debug\AlgoritmoLista.pdb
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\obj\Debug\AlgoritmoLista.csprojAssemblyReference.cache
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\obj\Debug\AlgoritmoLista.csproj.CoreCompileInputs.cache
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\obj\Debug\AlgoritmoLista.exe
+C:\Users\Imperio Starclip\source\repos\AlgoritmoLista\AlgoritmoLista\obj\Debug\AlgoritmoLista.pdb
